@@ -1,0 +1,17 @@
+@import "../../../styles/BrandStyle.scss";
+
+.maindiv{
+    background: $color-000000;
+    opacity: 1;
+    height: 50px;
+    text-align: $text-align-center;
+    padding-top: 15px;
+}
+.span{    
+    text-align: $text-align-center;    
+    font-weight: $font-normal;
+    font-family :$font-family;
+    letter-spacing: 0px;
+    color: $color-FFFFFF;
+    opacity: 1;    
+}

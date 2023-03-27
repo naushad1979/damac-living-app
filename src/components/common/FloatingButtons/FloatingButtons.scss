@@ -1,0 +1,21 @@
+.float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 40px; 
+  z-index: 100;
+}
+
+.float2 {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;   
+  left: 1150px; 
+  z-index: 100;
+}
+
+.my-float {
+  margin-top: 16px;
+}

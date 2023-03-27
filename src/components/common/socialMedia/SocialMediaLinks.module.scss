@@ -1,0 +1,12 @@
+@import "../../../styles/BrandStyle.scss";
+
+.background{
+    background: $color-BFA272;     
+}
+.borderColor{
+    border-color: $color-BFA272;     
+}
+.align{
+    padding-top: 2.2rem;
+    text-align: $text-align-center;
+}

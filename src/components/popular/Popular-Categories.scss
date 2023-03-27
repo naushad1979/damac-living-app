@@ -1,0 +1,32 @@
+@import "../../styles/BrandStyle.scss";
+
+.h2 {
+  color: $color-000000;
+  font-family: $font-family;
+  letter-spacing: $letter-zero-spacing;
+  margin-left: 25px;
+  font-size: $font-size35;
+}
+.div {
+  margin-left: -30px;
+  padding-top: 90px;
+}
+.text {
+  color: $color-000000;
+  font-family: $font-family;
+  letter-spacing: $letter-zero-spacing + 0.24;
+  text-align: $text-align-left;
+  font-size: $font-size24;
+}
+.description{
+  color: $color-8E8D8B;
+  font-size: $font-size20;
+
+}
+.button-align {
+  margin-left: 0.1rem;
+  margin-top: 2rem;
+}
+ 
+
+ 

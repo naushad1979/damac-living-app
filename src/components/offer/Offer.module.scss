@@ -1,0 +1,40 @@
+@import "../../styles/BrandStyle.scss";
+
+.maindiv{
+  height: 390px;  
+  background-color: $color-C5A26A;
+  opacity: 1;
+  margin-top: 3rem;
+}
+
+.h2{
+  margin-left: 2rem;
+  text-align: $text-align-left;
+  font-weight: $font-normal;
+  font-size: $font-size35;
+  font-family: $font-family;
+  letter-spacing: $letter-zero-spacing;
+  color: $color-FFFFFF;
+  opacity: 1;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.h1{
+  margin-left: 2rem;
+  text-align: $text-align-left;
+  font-weight: $font-normal;
+  font-size: $font-size45;
+  font-family: $font-family;
+  letter-spacing: $letter-zero-spacing;
+  color: $color-FFFFFF;
+  opacity: 1;
+  padding-left: 10px;
+}
+.img{
+  padding-top: 30px;
+  padding-left: 40px;
+}
+
+.buttonalign{
+  padding-left: 40px;
+}

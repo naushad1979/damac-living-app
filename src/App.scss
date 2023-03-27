@@ -1,0 +1,16 @@
+@import "./styles/BrandStyle.scss" ;
+
+.title{
+    color: $color-000000;
+    font-weight: $font-normal;
+    text-align: $text-align-left;
+    letter-spacing: $letter-zero-spacing; 
+    font-size: $font-size35; 
+    font-family: $font-family;  
+}
+.hr{
+    height: 5px;
+    border: 0;
+    box-shadow: inset 0 5px 5px -5px rgba(0, 0, 0, 0.5);
+}
+
