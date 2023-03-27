@@ -13,25 +13,25 @@ const Home = () => {
     <div>
       <Container>
         <Row>
-          <Col xs lg="6">
+          <Col xs="12" lg="6">
             <MyProperties />
           </Col>
-          <Col xs lg="6" className="p-1">
+          <Col xs="12" lg="6" className="p-1">
             <WhatsNew />
           </Col>
         </Row>
         <Row>
-          <Col xs lg="12">
+          <Col xs="12" lg="12">
             <Facilities />
           </Col>
         </Row>
         <Row>
-          <Col xs lg="12 mt-5">
+          <Col xs="12" lg="12 mt-5">
             <PopularCategories />
           </Col>
         </Row>
         <Row>
-          <Col xs lg="12">
+          <Col xs="12" lg="12">
             <Help />
           </Col>
         </Row>
@@ -41,10 +41,10 @@ const Home = () => {
           </Col>
         </Row>
         <Row>
-          <Col xs lg="12">
+          <Col xs="12" lg="12">
             <CopyRight />
           </Col>
-        </Row>
+        </Row> 
       </Container>
     </div>
   );
